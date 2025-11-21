@@ -22,7 +22,7 @@ This project identifies top-performing vendors and helps organizations make bett
 * Enhances supply chain efficiency
 
 ## 📁 Project Structure
-
+```
 Vendor_Performance_Analysis/
 │
 ├── data/
@@ -33,7 +33,7 @@ Vendor_Performance_Analysis/
 │   ├── charts
 │   └── dashboards
 └── README.md
-
+```
 ## 🔍 Key Insights Generated
 
 * Top 5 high-performing vendors
